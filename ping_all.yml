@@ -1,0 +1,6 @@
+---
+- hosts: all
+  user: ec2-user
+  tasks:
+  - name: ping test
+    action: ping
