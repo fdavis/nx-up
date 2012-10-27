@@ -1,2 +1,4 @@
 vars/hidden.yml
 TODO
+ansible_hosts
+instance_id
